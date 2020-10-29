@@ -65,7 +65,7 @@ int main (int argc, char* argv[]) {
 
 void printHeader(DualStream& log) {
 
-    log << "AutoParts v2.0\n";
-    log << "John P. Huelsenbeck and Brian Moore\n";
+    log << "AutoParts v3.0\n";
+    log << "John P. Huelsenbeck, Anna Chriss, and Brian Moore\n";
     log << "University of California, Bervis\n";
 }
